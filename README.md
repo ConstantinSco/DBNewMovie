@@ -8,12 +8,12 @@ Python爬虫使用Scrapy框架抓取了豆瓣新片榜内的电影信息</br>
 ├── scrapy.cfg</br>
 │</br>
 └── dbnewmovie</br>
-    ├── items.py</br>
-    ├── middlewares.py</br>
-    ├── pipelines.py</br>
-    ├── settings.py</br>
-    ├── __init__.py</br>
-    │</br>
-    └── spiders</br>
-        ├── movie.py</br>
-        └── __init__.py</br>
+....├── items.py</br>
+....├── middlewares.py</br>
+....├── pipelines.py</br>
+....├── settings.py</br>
+....├── __init__.py</br>
+....│</br>
+....└── spiders</br>
+........├── movie.py</br>
+........└── __init__.py</br>
